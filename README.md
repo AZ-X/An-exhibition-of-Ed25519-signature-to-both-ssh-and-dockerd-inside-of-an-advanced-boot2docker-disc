@@ -4,6 +4,7 @@ Although boot2docker announced deprecated state, these pictures are imaginable o
 * Customized `username` and `password` for DOCKER'S OS and SSH server
 * Customized `port number` of SSH
 * Customized `port number` of dockerd
+* Customized crypto e.g. `Ed25519` inside out
 * Customized additional persistency storage
 * Customized share path of your Host Machine
 * Customized additional parameters of various services
